@@ -237,3 +237,10 @@ body {
   }
 
 }
+
+.saweria-icon {
+  width: 60px;
+  height: auto;
+  margin-right: 8px;
+  vertical-align: middle;
+}
